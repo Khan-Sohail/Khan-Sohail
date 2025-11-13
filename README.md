@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
-<h1 align="center">Hi there, I'm Sohail Khan 👋</h1>
+<h1 align="center">I'm Sohail Khan 👋</h1>
 <h3 align="center">🚀 Senior Laravel & Vue.js Developer | Cloud Enthusiast | Mentor</h3>
 
 <p align="center">
