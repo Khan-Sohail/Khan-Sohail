@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Senior Laravel & Vue.js Developer | Cloud Enthusiast | Mentor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Crafting scalable dashboards+APIs;Driving Agile product delivery;+5+ years building impactful solutions;Open-source contributor;Let%27s+connect+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&width=435&lines=Crafting%20scalable%20dashboards+APIs;Driving%20Agile%20product%20delivery;+5+%20years%20building%20impactful%20solutions;Open-source%20contributor;Let%27s+connect+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
