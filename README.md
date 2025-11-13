@@ -1,6 +1,6 @@
 <!-- Hero Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saamirkhrl/saamirkhrl/master/banner.gif" alt="Hero Animated Banner" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
 
 <h1 align="center">Hi there, I'm Sohail Khan 👋</h1>
